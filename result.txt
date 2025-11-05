@@ -1,0 +1,189 @@
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=-1.532886797985505 Y=0.0665942039552386 Iterations=41
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.15
+Precision: 0.0001
+X=-1.532989829833651 Y=0.0666109237224786 Iterations=27
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.2
+Precision: 0.0001
+X=-1.5330886656 Y=0.06659676160000003 Iterations=20
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.3
+Precision: 0.0001
+X=nan Y=nan Iterations=1000001
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.3
+Precision: 0.0001
+X=1.8583708873760871 Y=-1.932408031442144 Iterations=13
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8586863850567337 Y=-1.9328835172322059 Iterations=37
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8586863850567337 Y=-1.9328835172322059 Iterations=37
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8586863850567337 Y=1.9328835172322059 Iterations=37
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.15
+Precision: 0.0001
+X=1.8584245035286873 Y=1.9327931078018987 Iterations=25
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.2
+Precision: 0.0001
+X=1.858263536841852 Y=1.9326407629050282 Iterations=19
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.3
+Precision: 0.0001
+X=1.8583708873760871 Y=1.932408031442144 Iterations=13
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.5
+Precision: 0.0001
+X=1.8584779569501195 Y=1.932515220192785 Iterations=14
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, 2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8586863850567337 Y=1.9328835172322059 Iterations=37
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8586863850567337 Y=-1.9328835172322059 Iterations=37
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.15
+Precision: 0.0001
+X=1.8584245035286873 Y=-1.9327931078018987 Iterations=25
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.2
+Precision: 0.0001
+X=1.858263536841852 Y=-1.9326407629050282 Iterations=19
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.3
+Precision: 0.0001
+X=1.8583708873760871 Y=-1.932408031442144 Iterations=13
+--------------------------------------------------
+Function: g
+Type: descend
+Initial point: (0.0, -2.0)
+Learning rate: 0.5
+Precision: 0.0001
+X=1.8584779569501195 Y=-1.932515220192785 Iterations=14
+--------------------------------------------------
+Function: h
+Type: ascend
+Initial point: (0.0, 0.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=0.0 Y=0.0 Iterations=1
+--------------------------------------------------
+Function: h
+Type: ascend
+Initial point: (4.0, 2.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=1.8382254806893854 Y=2.833649221416737 Iterations=23
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.1
+Precision: 0.0001
+X=-1.532886797985505 Y=0.0665942039552386 Iterations=41
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.15
+Precision: 0.0001
+X=-1.532989829833651 Y=0.0666109237224786 Iterations=27
+--------------------------------------------------
+Function: f
+Type: descend
+Initial point: (0.0, 0.0)
+Learning rate: 0.2
+Precision: 0.0001
+X=-1.5330886656 Y=0.06659676160000003 Iterations=20
+--------------------------------------------------
+Function: f
+Type: descend_var
+Initial point: (0.0, 0.0)
+Learning rate: 1.0
+Precision: 0.0001
+X=-1.5331859818690616 Y=0.066708796445426 Iterations=19
+--------------------------------------------------
+Function: f
+Type: descend_var
+Initial point: (0.0, 0.0)
+Learning rate: 0.5
+Precision: 0.0001
+X=-1.533227951336257 Y=0.06669587736364468 Iterations=19
+--------------------------------------------------
+Function: f
+Type: descend_var
+Initial point: (0.0, 0.0)
+Learning rate: 2.0
+Precision: 0.0001
+X=-1.5332055154046598 Y=0.06669567845248481 Iterations=19
+--------------------------------------------------
+Function: f
+Type: descend_var
+Initial point: (0.0, 0.0)
+Learning rate: 1.0
+Precision: 0.0001
+X=-1.5331859818690616 Y=0.066708796445426 Iterations=19
+--------------------------------------------------

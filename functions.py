@@ -3,6 +3,11 @@
 
 from math import exp
 
+def obj_f(x: float, y: float) -> float:
+    '''
+        Objective function f to be minimized.
+    '''
+    return x**2 + 4 * y**2 + x * y + 3 * x + y
 
 def dfx(x: float, y: float) -> float:
     '''
@@ -25,6 +30,11 @@ def f_grad(x: float, y: float) -> float:
 
 # Function g and its gradient
 
+def obj_g(x: float, y: float) -> float:
+    '''
+        Objective function g to be minimized.
+    '''
+    return (x**2 + y**2 + 2)**0.5 + 2 * x**2 * exp(-y**2) + (x - 2)**2
 
 def dgx(x: float, y: float) -> float:
     '''
@@ -32,7 +42,7 @@ def dgx(x: float, y: float) -> float:
     '''
     term1 = x
     term1_2 = ((x**2 + y**2 + 2)**0.5)
-    term2 = - 2 * x**2 * exp(-y**2)
+    term2 = - 4 * x**2 * exp(-y**2)
     term3 = 2 * (x - 2)
     if term1_2 == 0:
         raise ValueError("Division by zero in dgx calculation.")
@@ -51,6 +61,12 @@ def g_grad(x: float, y: float) -> float:
     '''
     return dgx(x, y), dgy(x, y)
 # Function h and its gradient
+
+def obj_h(x: float, y: float) -> float:
+    '''
+        Objective function h to be minimized.
+    '''
+    return 4 * exp(-x * x - y * y) + 3 * exp(-x * x - y * y + 4 * x + 6 * y - 13) - (x * x) / 4 - (y * y) / 6 + 2
 
 def dhx(x: float, y: float) -> float:
     '''
